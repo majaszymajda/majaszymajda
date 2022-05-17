@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi everyone! 😎
+Few important informations: 
 
-<!--
-**majaszymajda/majaszymajda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Technology:
+- Python
+- HTML 
+- Flutter
+- C++
+- SQL
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Interests:
+- IoT
+- Webdevelopment 
+- DataScience
+
+# Frameworks/libraries:
+- Django, DRF, 
+- Flask
+- Pandas, Numpy, scikit-learn
+- VUE, JS
+
+# How to reach me: https://www.linkedin.com/in/maja-szymajda-a53905206 👩🏼‍💻
+
+
+# Fun fact:
+- I study systems engineering
+- I like spending time in the nature 
+- important to me: equality, ecology and self-development
+
+
