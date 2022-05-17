@@ -1,6 +1,6 @@
 <h1 align = "center"> Hi everyone!  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
-Nice to meet you!. I'm a web developer and a systems engineering student 👩🏼‍💻 from Poland 🇵🇱. 
+Nice to meet you! I'm a web developer and a systems engineering student 👩🏼‍💻 from Poland 🇵🇱. 
 
 <h3>⚒ Tools I use:</h3>
 <p>
